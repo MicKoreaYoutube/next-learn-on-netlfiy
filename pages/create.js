@@ -14,7 +14,7 @@ export default function Home() {
         <Header title="create a post" />
         <p className="description">
           대충 input
-          <input type="text">
+          <input type="text" />
         </p>
       </main>
 
